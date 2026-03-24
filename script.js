@@ -1,4 +1,4 @@
-const API = "http://13.127.241.177:3000/api/tasks";
+const API = "/api/tasks";
 
 function loadTasks() {
     fetch(API)
